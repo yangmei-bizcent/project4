@@ -1,0 +1,13 @@
+.page-container {
+    padding: 15px;
+    background-color: #fff;
+    .flex-wrap {
+        flex-wrap: wrap;
+    }
+    .tableCell {
+        display: table-cell;
+    }
+    .width150 {
+        width: 150px;
+    }
+}

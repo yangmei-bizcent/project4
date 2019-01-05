@@ -1,0 +1,58 @@
+{
+    "total": 6,
+    "certifAuditData":[{
+          "applyCode": "25425",
+          "auditContent": "注册信息",
+          "userName": "卓健科技",
+          "userType": "开发者",
+          "submitPerson": "张三",
+          "submitTime": "2018-07-12",
+          "auditTime": "2018-07-16",
+          "auditResult": "审核通过"
+        },{
+            "applyCode": "25425",
+            "auditContent": "注册信息",
+            "userName": "卓健科技",
+            "userType": "开发者",
+            "submitPerson": "张三",
+            "submitTime": "2018-07-12",
+            "auditTime": "2018-07-16",
+            "auditResult": "审核不通过"
+        },{
+            "applyCode": "25425",
+            "auditContent": "注册信息",
+            "userName": "卓健科技",
+            "userType": "开发者",
+            "submitPerson": "张三",
+            "submitTime": "2018-07-12",
+            "auditTime": "2018-07-16",
+            "auditResult": "审核不通过"
+        },{
+            "applyCode": "25425",
+            "auditContent": "注册信息",
+            "userName": "卓健科技",
+            "userType": "开发者",
+            "submitPerson": "张三",
+            "submitTime": "2018-07-12",
+            "auditTime": "2018-07-16",
+            "auditResult": "审核通过"
+        },{
+            "applyCode": "25425",
+            "auditContent": "注册信息",
+            "userName": "卓健科技",
+            "userType": "开发者",
+            "submitPerson": "张三",
+            "submitTime": "2018-07-12",
+            "auditTime": "2018-07-16",
+            "auditResult": "审核不通过"
+        },{
+            "applyCode": "25425",
+            "auditContent": "注册信息",
+            "userName": "卓健科技",
+            "userType": "开发者",
+            "submitPerson": "张三",
+            "submitTime": "2018-07-12",
+            "auditTime": "2018-07-16",
+            "auditResult": "审核不通过"
+        }]
+}

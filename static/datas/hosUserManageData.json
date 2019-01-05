@@ -1,0 +1,49 @@
+{
+    "total": 5,
+    "hosUserData":[{
+          "orgzId": "1",
+          "orgzName": "浙江省人民医院",
+          "orgzGrade": "三甲",
+          "registerUser": "张三",
+          "registerPhone": "13851755966",
+          "commonPackage": "专业版",
+          "yihuPackage": "未开通",
+          "registerTime": "2018-08-12"
+        },{
+            "orgzId": "2",
+            "orgzName": "浙江省人民医院",
+            "orgzGrade": "三甲",
+            "registerUser": "张三",
+            "registerPhone": "13851755966",
+            "commonPackage": "专业版",
+            "yihuPackage": "未开通",
+            "registerTime": "2018-08-12"
+        },{
+            "orgzId": "3",
+            "orgzName": "浙江省人民医院",
+            "orgzGrade": "三甲",
+            "registerUser": "张三",
+            "registerPhone": "13851755966",
+            "commonPackage": "专业版",
+            "yihuPackage": "未开通",
+            "registerTime": "2018-08-12"
+        },{
+            "orgzId": "4",
+            "orgzName": "浙江省人民医院",
+            "orgzGrade": "三甲",
+            "registerUser": "张三",
+            "registerPhone": "13851755966",
+            "commonPackage": "专业版",
+            "yihuPackage": "未开通",
+            "registerTime": "2018-08-12"
+        },{
+            "orgzId": "5",
+            "orgzName": "浙江省人民医院",
+            "orgzGrade": "三甲",
+            "registerUser": "张三",
+            "registerPhone": "13851755966",
+            "commonPackage": "专业版",
+            "yihuPackage": "未开通",
+            "registerTime": "2018-08-12"
+        }]
+}

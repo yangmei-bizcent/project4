@@ -1,0 +1,65 @@
+.el-form {
+  .el-input__inner {
+    height: 34px;
+  }
+  &.config-form {
+    .el-textarea__inner {
+      width: 300px;
+    }
+  }
+
+  .el-form-item__label {
+    color: #425B77;
+    padding-right: 20px;
+  }
+
+  .label-rows {
+    .el-form-item__label {
+      line-height: 18px;
+    }
+  }
+}
+
+.has-table-page {
+  .el-table {
+    color: #425B77;
+    .cell {
+      line-height: 16px;
+    }
+    thead {
+      font-size: 12px;
+      color: #425B77;
+    }
+    td {
+      padding: 7px 0;
+    }
+    .el-button {
+      padding: 0;
+    }
+  }
+}
+
+.page-title-vice {
+  margin-left: 10px;
+  font-size: 12px;
+  color: #999;
+  letter-spacing: 0.2px;
+}
+
+.btn-3-letters {
+  padding: 9px 17px;
+}
+
+.btn-2-letters {
+  padding: 9px 15px;
+}
+
+.btn-4-letters {
+  padding: 9px 11px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: #E6E6E6;
+}
